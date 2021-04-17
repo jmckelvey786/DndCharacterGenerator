@@ -1,0 +1,16 @@
+C:\Users\Joshua\Desktop\repos\DndCharacterGenerator\DndCharacterGenerator\bin\Debug\net5.0\DndCharacterGenerator.exe
+C:\Users\Joshua\Desktop\repos\DndCharacterGenerator\DndCharacterGenerator\bin\Debug\net5.0\DndCharacterGenerator.deps.json
+C:\Users\Joshua\Desktop\repos\DndCharacterGenerator\DndCharacterGenerator\bin\Debug\net5.0\DndCharacterGenerator.runtimeconfig.json
+C:\Users\Joshua\Desktop\repos\DndCharacterGenerator\DndCharacterGenerator\bin\Debug\net5.0\DndCharacterGenerator.runtimeconfig.dev.json
+C:\Users\Joshua\Desktop\repos\DndCharacterGenerator\DndCharacterGenerator\bin\Debug\net5.0\DndCharacterGenerator.dll
+C:\Users\Joshua\Desktop\repos\DndCharacterGenerator\DndCharacterGenerator\bin\Debug\net5.0\ref\DndCharacterGenerator.dll
+C:\Users\Joshua\Desktop\repos\DndCharacterGenerator\DndCharacterGenerator\bin\Debug\net5.0\DndCharacterGenerator.pdb
+C:\Users\Joshua\Desktop\repos\DndCharacterGenerator\DndCharacterGenerator\obj\Debug\net5.0\DndCharacterGenerator.csprojAssemblyReference.cache
+C:\Users\Joshua\Desktop\repos\DndCharacterGenerator\DndCharacterGenerator\obj\Debug\net5.0\DndCharacterGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joshua\Desktop\repos\DndCharacterGenerator\DndCharacterGenerator\obj\Debug\net5.0\DndCharacterGenerator.AssemblyInfoInputs.cache
+C:\Users\Joshua\Desktop\repos\DndCharacterGenerator\DndCharacterGenerator\obj\Debug\net5.0\DndCharacterGenerator.AssemblyInfo.cs
+C:\Users\Joshua\Desktop\repos\DndCharacterGenerator\DndCharacterGenerator\obj\Debug\net5.0\DndCharacterGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Joshua\Desktop\repos\DndCharacterGenerator\DndCharacterGenerator\obj\Debug\net5.0\DndCharacterGenerator.dll
+C:\Users\Joshua\Desktop\repos\DndCharacterGenerator\DndCharacterGenerator\obj\Debug\net5.0\ref\DndCharacterGenerator.dll
+C:\Users\Joshua\Desktop\repos\DndCharacterGenerator\DndCharacterGenerator\obj\Debug\net5.0\DndCharacterGenerator.pdb
+C:\Users\Joshua\Desktop\repos\DndCharacterGenerator\DndCharacterGenerator\obj\Debug\net5.0\DndCharacterGenerator.genruntimeconfig.cache
